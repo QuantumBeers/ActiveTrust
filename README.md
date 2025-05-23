@@ -3,6 +3,8 @@
 **Trust, how it’s meant to be.**  
 A protocol for presence, a framework for consent, and a new foundation for access.
 
+Meta-Awareness of the Meta
+
 ---
 
 ## What is ActiveTrust?
