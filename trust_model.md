@@ -1,4 +1,8 @@
-# Co-Sign or Bounce: The Trust Architecture Behind ActiveTrust
+ActiveTrust is more than a protocol.  
+It’s a new way of relating to systems—**rooted in consent, not control.**
+
+This document expands on the core trust model that underpins the protocol:  
+**Co-Sign or Bounce** vs. **Allow or Deny.**
 
 ## Introduction
 ActiveTrust is more than a protocol.  
